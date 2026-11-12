@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Amsterdam — posti da visitare</name>
+<Style id="s-red"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle></Style>
+<Style id="s-grn"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon></IconStyle></Style>
+<Style id="s-purple"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href></Icon></IconStyle></Style>
+<Style id="s-blu"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon></IconStyle></Style>
+<Folder><name>Musei</name>
+<Placemark><name>Van Gogh Museum</name><description>Museumplein 6</description><styleUrl>#s-red</styleUrl><Point><coordinates>4.88109,52.358367,0</coordinates></Point></Placemark>
+<Placemark><name>Rijksmuseum</name><description>Museumstraat 1</description><styleUrl>#s-red</styleUrl><Point><coordinates>4.885218,52.359998,0</coordinates></Point></Placemark>
+<Placemark><name>Stedelijk Museum</name><description>Museumplein 10</description><styleUrl>#s-red</styleUrl><Point><coordinates>4.87986,52.3579,0</coordinates></Point></Placemark>
+<Placemark><name>Ons&#x27; Lieve Heer op Solder</name><description>Oudezijds Voorburgwal 38</description><styleUrl>#s-red</styleUrl><Point><coordinates>4.899366,52.375172,0</coordinates></Point></Placemark>
+<Placemark><name>Museo Rembrandt (Rembrandthuis)</name><description>Jodenbreestraat 4</description><styleUrl>#s-red</styleUrl><Point><coordinates>4.90125,52.369369,0</coordinates></Point></Placemark>
+<Placemark><name>Moco Museum (cortile)</name><description>Honthorststraat 20 · Installazioni gratuite nel cortile</description><styleUrl>#s-red</styleUrl><Point><coordinates>4.881961,52.358716,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Luoghi e quartieri</name>
+<Placemark><name>Concertgebouw</name><description>Concertgebouwplein 10</description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.879045,52.356198,0</coordinates></Point></Placemark>
+<Placemark><name>Museumplein</name><description></description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.88154,52.357271,0</coordinates></Point></Placemark>
+<Placemark><name>Vondelpark</name><description></description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.864119,52.357197,0</coordinates></Point></Placemark>
+<Placemark><name>Spiegelkwartier</name><description></description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.887345,52.362178,0</coordinates></Point></Placemark>
+<Placemark><name>Negen Straatjes</name><description></description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.884994,52.368851,0</coordinates></Point></Placemark>
+<Placemark><name>Dam</name><description></description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.892351,52.373116,0</coordinates></Point></Placemark>
+<Placemark><name>Oude Kerk</name><description></description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.898073,52.374362,0</coordinates></Point></Placemark>
+<Placemark><name>NEMO (terrazza)</name><description></description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.912111,52.373853,0</coordinates></Point></Placemark>
+<Placemark><name>Bloemenmarkt</name><description>Singel · Mercato dei fiori galleggiante</description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.890764,52.36693,0</coordinates></Point></Placemark>
+<Placemark><name>Begijnhof</name><description>ingresso dallo Spui o da Gedempte Begijnensloot · Cortile del Trecento con chiesa clandestina, gratis</description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.890043,52.369431,0</coordinates></Point></Placemark>
+<Placemark><name>Westerkerk</name><description>Prinsengracht 279</description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.883986,52.374547,0</coordinates></Point></Placemark>
+<Placemark><name>Casa di Anna Frank</name><description>Prinsengracht 267 · Solo con biglietto prenotato online</description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.88408,52.375155,0</coordinates></Point></Placemark>
+<Placemark><name>Brouwersgracht</name><description>Il canale più bello del Jordaan</description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.887426,52.381081,0</coordinates></Point></Placemark>
+<Placemark><name>Palazzo Reale</name><description>Dam</description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.89136,52.37314,0</coordinates></Point></Placemark>
+<Placemark><name>Casa più stretta (Singel 7)</name><description>Singel 7</description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.893843,52.378233,0</coordinates></Point></Placemark>
+<Placemark><name>Nieuwendijk</name><description>Via pedonale dello shopping</description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.895977,52.377799,0</coordinates></Point></Placemark>
+<Placemark><name>Nieuwmarkt e De Waag</name><description>Nieuwmarkt 4</description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.900385,52.372693,0</coordinates></Point></Placemark>
+<Placemark><name>Zuiderkerk</name><description>Zuiderkerkhof 72</description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.899799,52.370291,0</coordinates></Point></Placemark>
+<Placemark><name>Staalmeestersbrug</name><description>Staalstraat · Ponticello levatoio con vista sulla Zuiderkerk</description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.897674,52.368231,0</coordinates></Point></Placemark>
+<Placemark><name>Rembrandtplein</name><description></description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.896611,52.365988,0</coordinates></Point></Placemark>
+<Placemark><name>Magere Brug</name><description>Amstel · Ponte levatoio bianco di legno</description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.902375,52.363584,0</coordinates></Point></Placemark>
+<Placemark><name>OBA, biblioteca centrale</name><description>Oosterdokskade 143 · Caffè panoramico al settimo piano, ingresso libero</description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.90826,52.3759,0</coordinates></Point></Placemark>
+<Placemark><name>A&#x27;DAM Lookout</name><description>Overhoeksplein 5 (Noord) · ~€24, col traghetto gratuito da Centraal</description><styleUrl>#s-grn</styleUrl><Point><coordinates>4.902102,52.383856,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Gite fuori città</name>
+<Placemark><name>Zaanse Schans</name><description></description><styleUrl>#s-purple</styleUrl><Point><coordinates>4.817976,52.475053,0</coordinates></Point></Placemark>
+<Placemark><name>Inntel Hotel Zaandam</name><description>Provincialeweg 102, Zaandam · La facciata di casette verdi impilate</description><styleUrl>#s-purple</styleUrl><Point><coordinates>4.815939,52.438095,0</coordinates></Point></Placemark>
+<Placemark><name>Mulino De Kat</name><description>Kalverringdijk 29 · Mulino dei colori, ~€6-7</description><styleUrl>#s-purple</styleUrl><Point><coordinates>4.81786,52.474989,0</coordinates></Point></Placemark>
+<Placemark><name>Cheese farm Catharina Hoeve</name><description>Zeilenmakerspad 5 · Assaggi di formaggio gratuiti</description><styleUrl>#s-purple</styleUrl><Point><coordinates>4.818592,52.47366,0</coordinates></Point></Placemark>
+<Placemark><name>Bottega degli zoccoli (Klompenmakerij)</name><description>Kraaienest 4 · Dimostrazione gratuita. Posizione approssimativa</description><styleUrl>#s-purple</styleUrl><Point><coordinates>4.8203,52.4727,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Hotel e trasporti</name>
+<Placemark><name>Trianon Hotel</name><description>Jan Willem Brouwersstraat 3-7 · Casa base</description><styleUrl>#s-blu</styleUrl><Point><coordinates>4.878361,52.356367,0</coordinates></Point></Placemark>
+<Placemark><name>Amsterdam Centraal</name><description></description><styleUrl>#s-blu</styleUrl><Point><coordinates>4.900581,52.378901,0</coordinates></Point></Placemark>
+<Placemark><name>Station Amsterdam Zuid</name><description></description><styleUrl>#s-blu</styleUrl><Point><coordinates>4.871339,52.338721,0</coordinates></Point></Placemark>
+<Placemark><name>Schiphol Plaza (bus 397, banchina B17)</name><description></description><styleUrl>#s-blu</styleUrl><Point><coordinates>4.762243,52.309557,0</coordinates></Point></Placemark>
+<Placemark><name>Station Zaandijk Zaanse Schans</name><description></description><styleUrl>#s-blu</styleUrl><Point><coordinates>4.805157,52.469279,0</coordinates></Point></Placemark>
+<Placemark><name>Station Zaandam</name><description></description><styleUrl>#s-blu</styleUrl><Point><coordinates>4.814243,52.438002,0</coordinates></Point></Placemark>
+<Placemark><name>Fermata bus Zaanse Schans (391)</name><description>Leeghwaterweg</description><styleUrl>#s-blu</styleUrl><Point><coordinates>4.823762,52.473104,0</coordinates></Point></Placemark>
+</Folder>
+</Document></kml>

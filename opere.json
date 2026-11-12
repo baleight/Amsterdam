@@ -1,0 +1,255 @@
+{
+  "_nota": "Opere da vedere per museo (chiave = id in luoghi.json). 'file' = nome file su Wikimedia Commons (pubblico dominio), verificato via Wikidata/Commons API.",
+  "vgm": [
+    {
+      "titolo": "Girasoli",
+      "autore": "Vincent van Gogh",
+      "anno": "1889",
+      "file": "Zonnebloemen - s0031V1962 - Van Gogh Museum.jpg"
+    },
+    {
+      "titolo": "La camera da letto",
+      "autore": "Vincent van Gogh",
+      "anno": "1888",
+      "file": "De slaapkamer - s0047V1962 - Van Gogh Museum.jpg"
+    },
+    {
+      "titolo": "Ramo di mandorlo in fiore",
+      "autore": "Vincent van Gogh",
+      "anno": "1890",
+      "file": "Amandelbloesem - s0176V1962 - Van Gogh Museum.jpg"
+    },
+    {
+      "titolo": "Campo di grano con volo di corvi",
+      "autore": "Vincent van Gogh",
+      "anno": "1890",
+      "file": "Korenveld met kraaien - s0149V1962 - Van Gogh Museum.jpg"
+    },
+    {
+      "titolo": "I mangiatori di patate",
+      "autore": "Vincent van Gogh",
+      "anno": "1885",
+      "file": "De aardappeleters - s0005V1962 - Van Gogh Museum.jpg"
+    },
+    {
+      "titolo": "La casa gialla",
+      "autore": "Vincent van Gogh",
+      "anno": "1888",
+      "file": "Vincent van Gogh - The yellow house ('The street').jpg"
+    },
+    {
+      "titolo": "Autoritratto come pittore",
+      "autore": "Vincent van Gogh",
+      "anno": "1888",
+      "file": "Zelfportret als schilder - s0022V1962 - Van Gogh Museum.jpg"
+    },
+    {
+      "titolo": "Vaso con iris",
+      "autore": "Vincent van Gogh",
+      "anno": "1890",
+      "file": "Irissen - s0050V1962 - Van Gogh Museum.jpg"
+    },
+    {
+      "titolo": "Teschio con sigaretta accesa",
+      "autore": "Vincent van Gogh",
+      "anno": "1886",
+      "file": "Kop van een skelet met brandende sigaret - s0083V1962 - Van Gogh Museum.jpg"
+    }
+  ],
+  "rijks": [
+    {
+      "titolo": "La ronda di notte",
+      "autore": "Rembrandt",
+      "anno": "1642",
+      "file": "La ronda de noche, por Rembrandt van Rijn.jpg"
+    },
+    {
+      "titolo": "La lattaia",
+      "autore": "Johannes Vermeer",
+      "anno": "c. 1660",
+      "file": "Johannes Vermeer - Het melkmeisje - Google Art Project.jpg"
+    },
+    {
+      "titolo": "Stradina di Delft",
+      "autore": "Johannes Vermeer",
+      "anno": "c. 1658",
+      "file": "Johannes Vermeer - Gezicht op huizen in Delft, bekend als 'Het straatje' - Google Art Project.jpg"
+    },
+    {
+      "titolo": "Donna in azzurro che legge una lettera",
+      "autore": "Johannes Vermeer",
+      "anno": "c. 1663",
+      "file": "Vermeer, Johannes - Woman reading a letter - ca. 1662-1663.jpg"
+    },
+    {
+      "titolo": "Lettera d'amore",
+      "autore": "Johannes Vermeer",
+      "anno": "c. 1669",
+      "file": "Johannes Vermeer - 'De liefdesbrief' - Google Art Project.jpg"
+    },
+    {
+      "titolo": "La sposa ebrea",
+      "autore": "Rembrandt",
+      "anno": "c. 1665",
+      "file": "Rembrandt Harmensz. van Rijn - Portret van een paar als oudtestamentische figuren, genaamd 'Het Joodse bruidje' - Google Art Project.jpg"
+    },
+    {
+      "titolo": "I sindaci dei drappieri",
+      "autore": "Rembrandt",
+      "anno": "1662",
+      "file": "Rembrandt - De Staalmeesters- het college van staalmeesters (waardijns) van het Amsterdamse lakenbereidersgilde - Google Art Project.jpg"
+    },
+    {
+      "titolo": "Il bevitore allegro",
+      "autore": "Frans Hals",
+      "anno": "c. 1629",
+      "file": "Frans Hals 002.jpg"
+    },
+    {
+      "titolo": "La festa di San Nicola",
+      "autore": "Jan Steen",
+      "anno": "c. 1665",
+      "file": "Jan Havicksz. Steen – Het Sint-Nicolaasfeest – Google Art Project.jpg"
+    },
+    {
+      "titolo": "Paesaggio invernale con pattinatori",
+      "autore": "Hendrick Avercamp",
+      "anno": "c. 1608",
+      "file": "Hendrick Avercamp - Winterlandschap met ijsvermaak.jpg"
+    },
+    {
+      "titolo": "Il cigno minacciato",
+      "autore": "Jan Asselijn",
+      "anno": "c. 1650",
+      "file": "De bedreigde zwaan Rijksmuseum SK-A-4.jpeg"
+    }
+  ],
+  "km": [
+    {
+      "titolo": "Terrazza del caffè la sera",
+      "autore": "Vincent van Gogh",
+      "anno": "1888",
+      "file": "Van Gogh - Terrace of a Café at Night (Place du Forum) 1888.jpg"
+    },
+    {
+      "titolo": "Sentiero di notte in Provenza",
+      "autore": "Vincent van Gogh",
+      "anno": "1890",
+      "file": "Vincent van Gogh - Road with Cypress and Star - c. 12-15 May 1890.jpg"
+    },
+    {
+      "titolo": "Sulla soglia dell'eternità (Vecchio che soffre)",
+      "autore": "Vincent van Gogh",
+      "anno": "1890",
+      "file": "At Eternity's Gate - Vincent Van Gogh.jpg"
+    },
+    {
+      "titolo": "Ragazza nel bosco",
+      "autore": "Vincent van Gogh",
+      "anno": "1882",
+      "file": "Van Gogh - Meisje in het bos (Girl in a Wood) 1882.jpg"
+    },
+    {
+      "titolo": "Salici al tramonto",
+      "autore": "Vincent van Gogh",
+      "anno": "1888",
+      "file": "Willows at Sunset 1888 Vincent van Gogh.jpg"
+    },
+    {
+      "titolo": "Le Chahut",
+      "autore": "Georges Seurat",
+      "anno": "1889-90",
+      "file": "Georges Seurat, 1889-90, Le Chahut, Kröller-Müller Museum.jpg"
+    },
+    {
+      "titolo": "Il ciclope",
+      "autore": "Odilon Redon",
+      "anno": "c. 1914",
+      "file": "Odilon Redon - The Cyclops, c. 1914.jpg"
+    },
+    {
+      "titolo": "Composizione 10 in bianco e nero",
+      "autore": "Piet Mondrian",
+      "anno": "1915",
+      "file": "Mondrian - Composition 10 in Black and White (1915).jpg"
+    }
+  ],
+  "rembrandthuis": [
+    {
+      "titolo": "Lo studio di Rembrandt, ricostruito",
+      "autore": "Rembrandthuis",
+      "anno": "",
+      "file": "Amsterdam - Rembrandthuis - studio.JPG"
+    },
+    {
+      "titolo": "Autoritratto appoggiato a un davanzale (acquaforte)",
+      "autore": "Rembrandt",
+      "anno": "1639",
+      "file": "Rembrandt van Rijn, Self-Portrait Leaning on a Stone Sill, 1639, NGA 35136.jpg"
+    },
+    {
+      "titolo": "La stampa dei cento fiorini (acquaforte)",
+      "autore": "Rembrandt",
+      "anno": "c. 1648",
+      "file": "The Hundred Guilder Print MET MM2701.jpg"
+    }
+  ],
+  "stedelijk": [
+    {
+      "titolo": "Tableau III: Composizione in ovale",
+      "autore": "Piet Mondrian",
+      "anno": "1914",
+      "file": "Mondrian Tableau III.jpg"
+    },
+    {
+      "titolo": "Un inglese a Mosca",
+      "autore": "Kazimir Malevič",
+      "anno": "1914",
+      "file": "An Englishman in Moscow, by Kazimir Malevich.jpg"
+    },
+    {
+      "titolo": "Signora in bianco",
+      "autore": "Jan Toorop",
+      "anno": "1886",
+      "file": "Toorop Dame in wit.jpg"
+    }
+  ],
+  "mauritshuis": [
+    {
+      "titolo": "Ragazza con l'orecchino di perla",
+      "autore": "Johannes Vermeer",
+      "anno": "c. 1665",
+      "file": "1665 Girl with a Pearl Earring.jpg"
+    },
+    {
+      "titolo": "Veduta di Delft",
+      "autore": "Johannes Vermeer",
+      "anno": "c. 1661",
+      "file": "Johannes Vermeer - View of Delft - 92 - Mauritshuis.jpg"
+    },
+    {
+      "titolo": "Lezione di anatomia del dottor Tulp",
+      "autore": "Rembrandt",
+      "anno": "1632",
+      "file": "Rembrandt - The Anatomy Lesson of Dr Nicolaes Tulp.jpg"
+    },
+    {
+      "titolo": "Il cardellino",
+      "autore": "Carel Fabritius",
+      "anno": "1654",
+      "file": "Carel Fabritius - The Goldfinch - 605 - Mauritshuis.jpg"
+    },
+    {
+      "titolo": "Il toro",
+      "autore": "Paulus Potter",
+      "anno": "1647",
+      "file": "Paulus Potter - The Bull - 136 - Mauritshuis.jpg"
+    },
+    {
+      "titolo": "Natura morta con formaggi",
+      "autore": "Clara Peeters",
+      "anno": "c. 1615",
+      "file": "Clara Peeters - Still Life with Cheeses, Almonds and Pretzels.jpg"
+    }
+  ]
+}

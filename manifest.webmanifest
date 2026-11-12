@@ -1,0 +1,9 @@
+{
+  "name": "Amsterdam 17-21 novembre",
+  "short_name": "Amsterdam",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#faf6f0",
+  "theme_color": "#c8501e",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
