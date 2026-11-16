@@ -1,4 +1,4 @@
-const CACHE = "amsterdam-v9";
+const CACHE = "amsterdam-v10";
 const FILES = ["./", "./index.html", "./manifest.webmanifest", "./icon.svg"];
 
 self.addEventListener("install", (e) => {

@@ -52,7 +52,7 @@ VCATS = [  # mappa visite: chiave, etichetta, icona, colore, icona KML, id luogh
     ("gita", "Gite fuori città", "🚂", "#b0459a", "purple",
      ["inntel", "zaanse", "dekat", "catharina", "klompen"]),
     ("trasporti", "Hotel e trasporti", "🏨", "#2a6fdb", "blu",
-     ["hotel", "centraal", "zuid", "schiphol", "zaandam", "zaanse-bus", "zaandijk"]),
+     ["hotel", "leidseplein", "centraal", "zuid", "schiphol", "zaandam", "zaanse-bus", "zaandijk"]),
 ]
 VCAT_OF = {i: v for v in VCATS for i in v[5]}
 VISITE = [p for p in LUOGHI if p["id"] in VCAT_OF]
